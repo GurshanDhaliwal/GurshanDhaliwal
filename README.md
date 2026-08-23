@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GurshanDhaliwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurshanDhaliwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=GurshanDhaliwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GurshanDhaliwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -45,8 +45,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GurshanDhaliwal&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=GurshanDhaliwal&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
 </p>
+
+<!--
+  Note: github-readme-stats.vercel.app and github-profile-trophy.vercel.app (the original
+  public instances) are deprecated/frequently paused due to high traffic and Vercel billing
+  limits. Swapped to the maintained fork (github-stats-extended.vercel.app) and a
+  community-hosted trophy mirror for reliability. See:
+  - https://github.com/stats-organization/github-stats-extended
+  - https://github.com/ryo-ma/github-profile-trophy#load-balancing-endpoints
+-->
 
 ---
 
