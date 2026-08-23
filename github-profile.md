@@ -44,9 +44,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurshanDhaliwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=GurshanDhaliwal&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 <!--
   Note: github-readme-stats.vercel.app and github-profile-trophy.vercel.app (the original
