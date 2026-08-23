@@ -60,6 +60,4 @@
 | 🔗 [TGG](https://github.com/GurshanDhaliwal/TGG) | TGG project |
 | 🔗 [Moo-Jik](https://github.com/GurshanDhaliwal/Moo-Jik) | Moo-Jik project |
 
-> ✏️ Update the descriptions above with a one-line summary for each repo.
-
 ---

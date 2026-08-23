@@ -15,6 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - GitHub Stats and Top Languages badges, keeping only the GitHub Streak badge.
 - "📈 Contribution Graph" section.
 - Closing "Thanks for stopping by!" footer note.
+- "✏️ Update the descriptions above..." reminder note under Featured Projects.
 
 ## [1.0.0] - 2026-08-23
 ### Added
