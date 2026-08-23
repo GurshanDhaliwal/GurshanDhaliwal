@@ -16,6 +16,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - "📈 Contribution Graph" section.
 - Closing "Thanks for stopping by!" footer note.
 - "✏️ Update the descriptions above..." reminder note under Featured Projects.
+- HTML comment explaining the deprecated badge source swap (no longer needed).
+
+### Changed
+- Simplified the "Fun fact" bullet under About Me by removing em dashes.
 
 ## [1.0.0] - 2026-08-23
 ### Added

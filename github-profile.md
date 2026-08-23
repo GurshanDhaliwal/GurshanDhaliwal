@@ -21,7 +21,7 @@
 - 🔭 I'm currently building tools around **web apps, scripting utilities, and automation**
 - 🌱 I'm always learning new ways to make workflows faster and simpler
 - 💡 I enjoy turning small ideas into polished, working tools
-- ⚡ Fun fact: I like refining the little details — UI polish, print reliability, edge cases — until things "just work"
+- ⚡ Fun fact: I like refining the little details UI polish, print reliability, edge cases until things "just work"
 
 ---
 
@@ -38,15 +38,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurshanDhaliwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<!--
-  Note: github-readme-stats.vercel.app and github-profile-trophy.vercel.app (the original
-  public instances) are deprecated/frequently paused due to high traffic and Vercel billing
-  limits. Swapped to the maintained fork (github-stats-extended.vercel.app) and a
-  community-hosted trophy mirror for reliability. See:
-  - https://github.com/stats-organization/github-stats-extended
-  - https://github.com/ryo-ma/github-profile-trophy#load-balancing-endpoints
--->
 
 ---
 
