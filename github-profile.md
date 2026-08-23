@@ -36,17 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=GurshanDhaliwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GurshanDhaliwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurshanDhaliwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=GurshanDhaliwal&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
-</p> -->
 
 <!--
   Note: github-readme-stats.vercel.app and github-profile-trophy.vercel.app (the original
