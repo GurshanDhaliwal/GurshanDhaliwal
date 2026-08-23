@@ -64,14 +64,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GurshanDhaliwal&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
 <p align="center">
   <i>⭐️ Thanks for stopping by! Feel free to explore my repos and connect.</i>
 </p>
