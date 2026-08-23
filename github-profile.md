@@ -63,7 +63,3 @@
 > ✏️ Update the descriptions above with a one-line summary for each repo.
 
 ---
-
-<p align="center">
-  <i>⭐️ Thanks for stopping by! Feel free to explore my repos and connect.</i>
-</p>
